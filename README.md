@@ -71,10 +71,5 @@ The application is built with a mobile-first approach using TailwindCSS, ensurin
 
 This project is licensed under the ISC License.
 
-## 📞 Contact
-
-Your Name - [Your Email]
-
-Project Link: [repository-url]
 
 ---
